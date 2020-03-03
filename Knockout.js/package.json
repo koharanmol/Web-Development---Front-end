@@ -1,0 +1,19 @@
+{
+  "name": "Part2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-jquery": "^1.5.0"
+  }
+}
